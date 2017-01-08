@@ -1,0 +1,60 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+
+# Keil file
+!*.c 
+!*.h
+*.log
+*.plg
+*.bak
+*.dep
+*.uvgui.*
+*.uvguix.*
+*.uvoptx
+JLinkLog.txt
+*.o
+*.d
+*.crf
+*.tra
+*.axf
+*.hex
+*.lnp
+*.sct
+*.__i
+*.htm
+*.map
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
