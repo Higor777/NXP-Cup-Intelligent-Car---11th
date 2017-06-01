@@ -66,3 +66,6 @@ The NXP Cup National University Students Intelligent Car Race -11th.
 
 ### 后期工作：
 * 继续测试计数稳定性，对路径做更多优化，尝试如何跑出最佳路径。西部赛时，在下一个信标比较远时，可能由于图像畸变，y坐标问题，设定的偏离切线方向会导致车子绕一个大弧线，路径变长，可能需要做优化。还是要提高抗环境光线干扰的能力（主要是硬件方案上改动，程序上很难做到很强的抗干扰），国赛环境可能不如西部赛环境好。尝试主动差速。
+
+### 许可协议
+* [The MIT License](https://github.com/Higor777/NXP-Cup-Intelligent-Car---11th/blob/master/LICENSE.md)
